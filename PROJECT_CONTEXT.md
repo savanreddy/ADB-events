@@ -9,7 +9,7 @@ README.md for the content-editing model).
 
 - Primary URL: https://www.adbevents.in (custom domain, SSL valid & verified)
 - Railway-provided URL: https://photography-website-production-42c9.up.railway.app
-- GitHub: https://github.com/medipelliabhishek/photography-website (branch `main`)
+- GitHub: https://github.com/savanreddy/ADB-events (branch `main`)
 - Domain registrar: Namecheap (adbevents.in)
 - Client: non-technical photographer/event business owner — explain things
   in plain terms, avoid jargon when summarizing for them.
@@ -31,7 +31,7 @@ The `railway` CLI's auth is unreliable in this environment. Instead, read the
 access token directly and call the GraphQL API:
 
 ```bash
-node -e "console.log(require('/Users/abhishek/.railway/config.json').user.accessToken)"
+node -e "console.log(require('/Users/savanreddy/.railway/config.json').user.accessToken)"
 # POST to https://backboard.railway.com/graphql/v2 with Authorization: Bearer <token>
 ```
 

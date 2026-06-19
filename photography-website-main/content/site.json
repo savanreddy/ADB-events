@@ -1,0 +1,59 @@
+{
+  "siteTitle": "Aperture & Co. Photography",
+  "siteDescription": "Premium wedding, portrait and event photography. Timeless images, crafted with care.",
+  "logo": "",
+  "photographerName": "Aperture & Co.",
+  "hero": {
+    "title": "Capturing Light, Crafting Stories",
+    "subtitle": "Premium wedding, portrait & event photography",
+    "image": "",
+    "images": []
+  },
+  "homepageText": "We believe every moment deserves to be remembered beautifully. From intimate portraits to grand celebrations, we bring a calm, creative eye and years of experience to every shoot — so you can simply be present, while we take care of the rest.",
+  "about": {
+    "title": "About Us",
+    "text": "Hello! We're a husband-and-wife photography duo based in the city, with over 8 years of experience photographing weddings, portraits and events across the country. Our style blends candid, documentary-style storytelling with timeless, editorial portraits.\n\nWe travel for destination weddings and love working with couples and families who want photos that feel real — full of light, emotion and small details you'll treasure for years to come.",
+    "image": "/gallery/photo-02.jpg"
+  },
+  "services": [
+    {
+      "title": "Wedding Photography",
+      "description": "Full-day coverage of your wedding, from getting-ready moments to the last dance. Includes a second photographer and an online gallery of edited images.",
+      "price": "Starting at ₹45,000"
+    },
+    {
+      "title": "Portrait Sessions",
+      "description": "Individual, couple or family portrait sessions at a location of your choice. Includes a one-hour shoot and 20 professionally edited photos.",
+      "price": "Starting at ₹6,000"
+    },
+    {
+      "title": "Event Photography",
+      "description": "Coverage for engagements, birthdays, corporate events and celebrations of any size. Flexible hourly packages available.",
+      "price": "Starting at ₹12,000"
+    },
+    {
+      "title": "Pre-Wedding Shoots",
+      "description": "A relaxed, fun session to celebrate your engagement — shot at one or two scenic locations of your choice, including outfit changes.",
+      "price": "Starting at ₹15,000"
+    }
+  ],
+  "pricingText": "Every event is different, so every quote is too. The prices above are starting points — get in touch with your date, location and the kind of coverage you're looking for, and we'll put together a custom package and quote for you. All packages include professionally edited high-resolution images delivered via an online gallery.",
+  "team": [],
+  "testimonials": [
+    {
+      "name": "Priya & Arjun",
+      "role": "Wedding, Goa",
+      "text": "Absolutely beautiful photos! They made us feel so comfortable the whole day and captured moments we didn't even know were happening. We still get emotional looking through our album."
+    },
+    {
+      "name": "Sandeep Mehta",
+      "role": "Corporate Event",
+      "text": "Professional, punctual and incredibly easy to work with. The turnaround time for edited photos was fast and the quality was outstanding."
+    },
+    {
+      "name": "Riya Kapoor",
+      "role": "Portrait Session",
+      "text": "I've never felt so comfortable in front of a camera. The photos came out so natural and beautiful — highly recommend for anyone nervous about photoshoots!"
+    }
+  ]
+}

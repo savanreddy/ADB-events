@@ -1,4 +1,4 @@
-# Aperture & Co. — Photography Website
+# Client Photography Website
 
 A premium, fast-loading photography portfolio site built with **Next.js**,
 **TypeScript** and **Tailwind CSS**. It includes a simple `/admin` page so a
